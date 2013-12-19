@@ -1,5 +1,6 @@
 /*
  * MAPPSView.java
+ *  Petrus a Pazdic
  */
 package mapps;
 
